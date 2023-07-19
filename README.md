@@ -17,8 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on my; **Robotics Arm Project**
-- 🐍 I love **Arduino, Python and React**
+- 👨🏽‍💻 I’m currently working on my **Robotics Arm Project**
+- 🐍 I love **Arduino, Python and React**;
 - 🌱 I wish to learn **x86**;
 - 👯 I love working in **teams**, so if you have an interesting project, hit me up🤝;
 - 💬 Ask me about anything, I am happy to **help**;
