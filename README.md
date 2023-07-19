@@ -52,23 +52,6 @@ You can use the website to generate badges: https://shields.io/
   
 ---
 
-<!-- Its main projects -->
-<p align="center">
-  <a href="https://github.com/MadalinaKopacz/Arduino-Snake-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadalinaKopacz&repo=Arduino-Snake-Game" />
-  </a>
-  <a href="https://github.com/MadalinaKopacz/LineFollower">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadalinaKopacz&repo=LineFollower" />
-  </a>
-</p>
 
-<p align="center">
-  <a href="https://github.com/MadalinaKopacz/Recipedia">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadalinaKopacz&repo=Recipedia" />
-  </a>
-  <a href="https://github.com/MadalinaKopacz/Bucharest-Frenzy-Game">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadalinaKopacz&repo=Bucharest-Frenzy-Game" />
-  </a>
-</p>
 
 <!-- This readme was created by Murillo Comino - https://github.com/onimur -->
