@@ -75,3 +75,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MadalinaKopacz&repo=Bucharest-Frenzy-Game" />
   </a>
 </p>
+
+<!-- This readme was created by Murillo Comino - https://github.com/onimur -->
